@@ -4,7 +4,7 @@
 #### I have explored this programming field in the last 2 years, precisely when i was still in vocational high school. 
 #### I am proficient in an assortment of web technologies, including HTML, CSS, Javascript, ReactJS, MySQL, and MongoDB.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namassist&repo=techcomfest&theme=dracula)](https://github.com/namassist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namassist&repo=techcomfest)](https://github.com/namassist/techcomfest)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namassist&theme=dracula)](https://github.com/namassist)
 
