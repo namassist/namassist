@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ### I am experienced in the field  of programming precisely on frontend web developers. 
 ### I have explored this programming field in the last 2 years, precisely when i was still in vocational high school. 
