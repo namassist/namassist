@@ -3,7 +3,7 @@
 #### I am experienced in the field  of programming precisely on frontend web developers. 
 #### I have explored this programming field in the last 2 years, precisely when i was still in vocational high school. 
 #### I am proficient in an assortment of web technologies, including HTML, CSS, Javascript, ReactJS, MySQL, and MongoDB.
-#### Visit my portfolio website in https://www.namassist.vercel.app
+#### Visit my portfolio website in https://namassist.vercel.app
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namassist&theme=dracula&include_all_commits=true)](https://github.com/namassist)
 
