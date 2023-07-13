@@ -5,6 +5,4 @@
 #### I am proficient in an assortment of web technologies, including HTML, CSS, Javascript, ReactJS, MySQL, and MongoDB.
 #### Visit my portfolio website in https://namassist.vercel.app
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namassist&theme=dracula&include_all_commits=true)](https://github.com/namassist)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namassist&layout=compact&theme=dracula)](https://github.com/namassist)
